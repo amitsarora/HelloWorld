@@ -5,3 +5,5 @@ Ok, now we merged it back to the master.
 And we downloaded this file to the desktop.
 
 Let's push it back up now
+
+Making more changes to this file, after having made some changes manually to the file in the git respository
