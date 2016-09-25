@@ -9,3 +9,5 @@ Let's push it back up now
 Making more changes to this file, after having made some changes manually to the file in the git respository
 
 Ok, so now this file is back up in the git repository.
+
+Trying it again - making changes to the file in github
